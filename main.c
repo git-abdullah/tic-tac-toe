@@ -86,7 +86,6 @@ int main() {
 }
 
 int show() {
-    int i, j;
     printf("\n\n\n\t\t\tTIC-TAC-TOE\n");
     printf("\t\tplayer-1 <O>\tplayer-2 <X>\n\n\n");
     printf("\t\t\t %c | %c | %c \n", mainArray[0][0], mainArray[0][1], mainArray[0][2]);
