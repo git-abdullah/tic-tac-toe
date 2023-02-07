@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 
-
 // function declaration
 int show();
 int add(int i, int j, int move);
